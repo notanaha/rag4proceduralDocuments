@@ -37,7 +37,7 @@ split_word = "_"
 
 def main():
 
-    query = st.text_input("質問を入力してください:", value="普通預金の利息の決算日はいつですか")
+    query = st.text_input("Enter your question:", value="What is the disposal of PET bottle and what is the number of the flow in 1 to 9?")
 
     if st.button("Enter", key="confirm"):
         if query.lower() == "reset":
