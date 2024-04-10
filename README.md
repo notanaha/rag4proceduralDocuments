@@ -12,5 +12,5 @@ Configuration
 <br>
 <br>
 <br>
-![](https://github.com/notanaha/ragwithImage/blob/main/streamlit/images/sample.png)
+<img src="https://github.com/notanaha/ragwithImage/blob/main/streamlit/images/sample.png" alt="rag4proceduraldocument">
 
