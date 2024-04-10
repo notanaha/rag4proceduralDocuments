@@ -7,3 +7,10 @@ Configuration
 2. Run noteboooks staring 01 through 04
 3. Change directory to streamlit then run "streamlit run startPage.py"
 4. Use "ragWithImageDocs_singleImage_withGpt4Hint"
+<br>
+<br>
+<br>
+<br>
+<br>
+![](./streamlit/images/sample.png)
+
