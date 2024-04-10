@@ -12,5 +12,5 @@ Configuration
 <br>
 <br>
 <br>
-![](./streamlit/images/sample.png)
+![](https://github.com/notanaha/ragwithImage/blob/main/streamlit/images/sample.png)
 
