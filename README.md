@@ -12,5 +12,6 @@ Configuration
 <br>
 <br>
 <br>
-<img src="https://github.com/notanaha/ragwithImage/blob/main/streamlit/images/sample.png" alt="rag4proceduraldocument">
+<img src="https://raw.githubusercontent.com/notanaha/ragwithImage/main/streamlit/images/sample.png" alt="rag4proceduraldocument">
+
 
