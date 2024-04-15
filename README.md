@@ -11,7 +11,7 @@ Download poppler from [poppler-windows](https://github.com/oschwartz10612/popple
 <br>
 
 ### Known Issue
-- For certain type of pdf files, poppler fails to convert pdf pages to images, where images don't have text characters on it. 
+- For certain type of pdf files, poppler fails to convert pdf pages to images, where images don't have text characters on it. In such a case, try printing the pdf as pdf file.
 <br>
 <br>
 <br>
